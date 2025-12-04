@@ -11,7 +11,5 @@ file = open("data.txt", "r")
 # ~ list_of_lines = list(file)
 
 list_of_lines = file.readlines()
-
 print(list_of_lines)
-
 file.close()
