@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# OPS445 - Lab 5
+# lab5a.py
+# Author: Avraham Abel
 
 def read_file_string(file_name):
     # Takes a filename string, returns a string of all lines in the file
