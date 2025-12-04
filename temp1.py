@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# OPS445 - Lab 5
+# temp1.py
+# Author: Avraham Abel
 
 file = open("data.txt", "r")
 
