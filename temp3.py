@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# OPS445 - Lab 5
+# temp3.py
+# Author: Avraham Abel
 
 # ~file = open("file1.txt", "w")
 
