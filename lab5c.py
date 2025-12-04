@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# OPS445 - Lab 5
+# lab5c.py
+# Author: Avraham Abel
 
 def add(number1, number2):
     # Add two numbers together, return the result
